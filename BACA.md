@@ -266,20 +266,19 @@ Ketika sebuah objek berada di area deteksi sensor, maka sensor akan merespon den
 
 <br><br>
 
-## Pengingat
-
-<table><tr><td width="840">
-      
-1. Sebelum memulai proyek, anda harus menguji komponen terlebih dahulu untuk memastikan perangkat yang digunakan dapat bekerja dengan baik. Hal ini sudah disediakan oleh pembuat program, silakan unduh dan coba satu per satu bagian.
-   
-2. Penggunaan komunikasi serial antara Arduino IDE dan Processing tidak dapat dijalankan secara bersamaan, sehingga jika anda ingin membuka Processing GUI maka pada saat yang sama anda tidak dapat membuka Serial Monitor Arduino IDE. Hal ini juga berlaku untuk sebaliknya.
-
-</td></tr></table>
+## Pengujian Komponen
+Anda dapat mengunduh berkas uji komponen melalui tautan berikut: <a href="https://github.com/devancakra/IoT-based-Radar-with-Wemos-D1-R2/tree/master/Assets/Component%20Testing">Klik Disini</a>
 
 <br><br>
 
-## Pengujian Komponen
-Anda dapat mengunduh berkas uji komponen melalui tautan berikut: <a href="https://github.com/devancakra/IoT-based-Radar-with-Wemos-D1-R2/tree/master/Assets/Component%20Testing">Klik Disini</a>
+## Catatan
+<blockquote>
+   <h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Penting</h3>
+   <ul>
+   <li>Sebelum memulai proyek, anda harus menguji komponen terlebih dahulu untuk memastikan perangkat yang digunakan dapat bekerja dengan baik. Hal ini sudah disediakan oleh pembuat program, silakan unduh dan coba satu per satu bagian.</li><br>
+   <li>Penggunaan komunikasi serial antara Arduino IDE dan Processing tidak dapat dijalankan secara bersamaan, sehingga jika anda ingin membuka Processing GUI maka pada saat yang sama anda tidak dapat membuka Serial Monitor Arduino IDE. Hal ini juga berlaku untuk sebaliknya.</li>
+   </ul>
+</blockquote>
 
 <br><br>
 
