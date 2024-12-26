@@ -79,6 +79,14 @@ When an object is in the sensor detection area, the sensor will respond by sendi
 ## Project Designs
 <table>
 <tr>
+<th width="840">Infrastructure</th>
+</tr>
+<tr>
+<td><img src="Assets/Documentation/Diagram/Infrastructure.jpg" alt="infrastructure"></td>
+</tr>
+</table>
+<table>
+<tr>
 <th width="420">Block Diagram</th>
 <th width="420">Pictorial Diagram</th>
 </tr>

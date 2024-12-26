@@ -79,6 +79,14 @@ Ketika sebuah objek berada di area deteksi sensor, maka sensor akan merespon den
 ## Rancangan Proyek
 <table>
 <tr>
+<th width="840">Infrastruktur</th>
+</tr>
+<tr>
+<td><img src="Assets/Documentation/Diagram/Infrastructure.jpg" alt="infrastructure"></td>
+</tr>
+</table>
+<table>
+<tr>
 <th width="420">Diagram Blok</th>
 <th width="420">Diagram Ilustrasi</th>
 </tr>
