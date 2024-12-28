@@ -271,7 +271,7 @@ Anda dapat mengunduh berkas uji komponen melalui tautan berikut: <a href="https:
 
 <br><br>
 
-<h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Catatan :</h3>
+## <img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Catatan
 <blockquote>
    <ul>
    <li>Sebelum memulai proyek, anda harus menguji komponen terlebih dahulu untuk memastikan perangkat yang digunakan dapat bekerja dengan baik. Hal ini sudah disediakan oleh pembuat program, silakan unduh dan coba satu per satu bagian.</li><br>

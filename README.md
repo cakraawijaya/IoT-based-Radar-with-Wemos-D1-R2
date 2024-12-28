@@ -271,7 +271,7 @@ You can download the component test file via the following link: <a href="https:
 
 <br><br>
 
-<h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Notes :</h3>
+## <img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Notes
 <blockquote>   
    <ul>
    <li>Before starting the project, you should test the components first to make sure the devices used can work properly. This has been provided by the creator of the program, please download and try one section at a time.</li><br>
