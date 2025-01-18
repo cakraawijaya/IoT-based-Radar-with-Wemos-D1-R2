@@ -64,7 +64,7 @@ This radar is closely related to defense technology, where this tool can functio
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_USB_Driver
+   https://bit.ly/CH340_USBdriver
    ```
 
    </td></tr></table>
