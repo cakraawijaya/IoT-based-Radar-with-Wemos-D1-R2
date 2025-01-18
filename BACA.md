@@ -64,7 +64,7 @@ Radar ini sangat erat kaitannya dengan teknologi pertahanan, yang mana alat ini 
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_USB_Driver
+   https://bit.ly/CH340_USBdriver
    ```
 
    </td></tr></table>
