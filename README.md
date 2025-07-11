@@ -135,11 +135,11 @@ When an object is in the sensor detection area, the sensor will respond by sendi
       How to setup the ``` WEMOS D1 R2 ``` board
             
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
       
       • Click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` esp8266 ```.
 
-      • Then click ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Board ``` -> ``` LOLIN(WEMOS) D1 R2 & mini ```.
+      • Then selecting a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Board ``` -> ``` LOLIN(WEMOS) D1 R2 & mini ```.
 
       </td></tr>
    </table><br>
