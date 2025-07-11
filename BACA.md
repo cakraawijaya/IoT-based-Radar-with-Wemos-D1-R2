@@ -135,11 +135,11 @@ Ketika sebuah objek berada di area deteksi sensor, maka sensor akan merespon den
       Cara mengatur board ``` WEMOS D1 R2 ```
             
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
       
       • Klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp8266 ```. 
       
-      • Kemudian klik ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Board ``` -> ``` LOLIN(WEMOS) D1 R2 & mini ```.
+      • Kemudian pilih papan dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Board ``` -> ``` LOLIN(WEMOS) D1 R2 & mini ```.
 
       </td></tr>
    </table><br>
