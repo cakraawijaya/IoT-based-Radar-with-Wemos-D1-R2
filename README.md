@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Wemos-light.svg?style=flat&logo=espressif&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Course-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# IoT-based-Radar-with-Wemos-D1-R2
+# IoT-based Radar with Wemos D1 R2
 <strong>UCI Coursera Final Project 2023</strong><br><br>
 This radar is closely related to defense technology, where this tool can function as a determinant of the direction of movement / position / shape of a detected object. The purpose of this project is to be able to make a simple radar system from the utilization of Ultrasonic sensors. This project has been implemented and took approximately 1 day. This radar system is based on the Internet of Things, so it uses MQTT as its communication protocol. The system interface can be accessed alternately through Serial Monitor and Processing. The benefit of making this project is none other than to gain experience. The results show that the system can function properly.
 
