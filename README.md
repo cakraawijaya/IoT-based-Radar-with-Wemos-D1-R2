@@ -16,7 +16,7 @@ This radar is closely related to defense technology, where this tool can functio
 | Development Board | Wemos D1 R2 |
 | Code Editor | • Arduino IDE<br>• Processing |
 | Driver | CH340 USB Driver |
-| IoT Platform | mosquitto |
+| MQTT Broker | mosquitto |
 | Communications Protocol | Message Queuing Telemetry Transport (MQTT) |
 | IoT Architecture | 3 Layer |
 | Application Support | MQTT Explorer |
@@ -72,7 +72,7 @@ This radar is closely related to defense technology, where this tool can functio
 <br><br>
 
 ## System Flow Schematic
-When an object is in the sensor detection area, the sensor will respond by sending publish data to the IoT platform (mosquitto) and then sending back in the form of subscribe data to be displayed on the serial monitor. As for the graph, users can also see a significant color difference in the detection area. If no object is found, the sensor and actuator will always be on standby.
+When an object is in the sensor detection area, the sensor will respond by sending publish data to the MQTT Broker (mosquitto) and then sending back in the form of subscribe data to be displayed on the serial monitor. As for the graph, users can also see a significant color difference in the detection area. If no object is found, the sensor and actuator will always be on standby.
 
 <br><br>
 
