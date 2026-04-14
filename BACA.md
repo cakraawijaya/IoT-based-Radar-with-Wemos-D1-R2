@@ -16,7 +16,7 @@ Radar ini sangat erat kaitannya dengan teknologi pertahanan, yang mana alat ini 
 | Papan Pengembangan | Wemos D1 R2 |
 | Editor Kode | • Arduino IDE<br>• Processing |
 | Driver | CH340 USB Driver |
-| Platform IoT | mosquitto |
+| Broker MQTT | mosquitto |
 | Protokol Komunikasi | Message Queuing Telemetry Transport (MQTT) |
 | Arsitektur IoT | 3 Lapisan |
 | Dukungan Aplikasi | MQTT Explorer |
@@ -72,7 +72,7 @@ Radar ini sangat erat kaitannya dengan teknologi pertahanan, yang mana alat ini 
 <br><br>
 
 ## Skema Alur Sistem
-Ketika sebuah objek berada di area deteksi sensor, maka sensor akan merespon dengan mengirimkan data publish ke platform IoT (mosquito) dan kemudian mengirimkan kembali dalam bentuk data subscribe untuk ditampilkan pada serial monitor. Sedangkan pada grafik, pengguna juga dapat melihat perbedaan warna yang signifikan pada area deteksi. Jika tidak ada objek yang ditemukan, sensor dan aktuator akan selalu siaga.
+Ketika sebuah objek berada di area deteksi sensor, maka sensor akan merespon dengan mengirimkan data publish ke Broker MQTT (mosquito) dan kemudian mengirimkan kembali dalam bentuk data subscribe untuk ditampilkan pada serial monitor. Sedangkan pada grafik, pengguna juga dapat melihat perbedaan warna yang signifikan pada area deteksi. Jika tidak ada objek yang ditemukan, sensor dan aktuator akan selalu siaga.
 
 <br><br>
 
