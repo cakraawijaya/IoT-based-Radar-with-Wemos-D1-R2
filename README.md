@@ -21,7 +21,7 @@ This radar is closely related to defense technology, where this tool can functio
 | IoT Architecture | 3 Layer |
 | Application Support | MQTT Explorer |
 | Programming Language | • C/C++<br>• Processing |
-| Arduino Library | • ESP8266WiFi (default)<br>• PubSubClient<br>• ArduinoJson<br>• Servo |
+| Arduino Library | • ESP8266WiFi (default)<br>• PubSubClient by Nick O'Leary (Version: 2.8)<br>• ArduinoJson by Benoit Blanchon (Version: 6.21.3)<br>• Servo by Michael Margolis (Version: 1.1.7) |
 | Actuators | Servo Motor SG90 180° (x1) |
 | Sensor | HC-SR04: Ultrasonic Sensor (x1) |
 | Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Screws (1 set)<br>• HC-SR04 Mounting Bracket (x1) |
