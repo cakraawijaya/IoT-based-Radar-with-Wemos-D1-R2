@@ -21,7 +21,7 @@ Radar ini sangat erat kaitannya dengan teknologi pertahanan, yang mana alat ini 
 | Arsitektur IoT | 3 Lapisan |
 | Dukungan Aplikasi | MQTT Explorer |
 | Bahasa Pemrograman | • C/C++<br>• Processing |
-| Pustaka Arduino | • ESP8266WiFi (bawaan)<br>• PubSubClient<br>• ArduinoJson<br>• Servo |
+| Pustaka Arduino | • ESP8266WiFi (bawaan)<br>• PubSubClient oleh Nick O'Leary (Versi: 2.8)<br>• ArduinoJson oleh Benoit Blanchon (Versi: 6.21.3)<br>• Servo oleh Michael Margolis (Versi: 1.1.7) |
 | Aktuator | Motor Servo SG90 180° (x1) |
 | Sensor | HC-SR04: Sensor Ultrasonik (x1) |
 | Komponen Lainnya | • Kabel USB Mikro - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Sekrup (1 set)<br>• Braket Pemasangan HC-SR04 (x1) |
