@@ -14,7 +14,7 @@ Radar ini sangat erat kaitannya dengan teknologi pertahanan, yang mana alat ini 
 | Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | Wemos D1 R2 |
-| Editor Kode | • Arduino IDE<br>• Processing |
+| Editor Kode | • Arduino IDE 1.8.19 (Versi Lama yang Stabil)<br>• Processing |
 | Driver | CH340 USB Driver |
 | Broker MQTT | mosquitto |
 | Protokol Komunikasi | Message Queuing Telemetry Transport (MQTT) |
