@@ -14,7 +14,7 @@ This radar is closely related to defense technology, where this tool can functio
 | Part | Description |
 | --- | --- |
 | Development Board | Wemos D1 R2 |
-| Code Editor | • Arduino IDE<br>• Processing |
+| Code Editor | • Arduino IDE 1.8.19 (Stable Legacy Version)<br>• Processing |
 | Driver | CH340 USB Driver |
 | MQTT Broker | mosquitto |
 | Communications Protocol | Message Queuing Telemetry Transport (MQTT) |
