@@ -170,7 +170,7 @@ When an object is in the sensor detection area, the sensor will respond by sendi
 
 7. Change the ``` WiFi Name ```, ``` WiFi Password ```, and ``` Client ID ``` according to what you are currently using.<br><br>
 
-8. Before uploading the program please click: ``` Verify ```.<br><br>
+8. Before uploading the program, please click: ``` Verify ```.<br><br>
 
 9. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
